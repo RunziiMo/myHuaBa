@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.zyj010.huaba.ui.MainActivity;
+import com.zyj010.huaba.ui.IndexActivity;
 import com.runzii.lib.constant.MyActions;
 import com.runzii.lib.constant.MyKeys;
 
@@ -48,7 +48,7 @@ public class JPushReceiver extends BroadcastReceiver {
             Log.d(TAG, "[MyReceiver] 用户点击打开了通知");
 
             //打开自定义的Activity
-            Intent i = new Intent(context, MainActivity.class);
+            Intent i = new Intent(context, IndexActivity.class);
             i.putExtras(bundle);
             //i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
@@ -100,7 +100,7 @@ public class JPushReceiver extends BroadcastReceiver {
         return sb.toString();
     }
 
-    //send msg to MainActivity
+    //send msg to IndexActivity
     private void processCustomMessage(Context context, Bundle bundle) {
 
         if (bundle.getString(JPushInterface.EXTRA_MESSAGE).equals("play"))

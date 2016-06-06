@@ -44,10 +44,6 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/shape_button_login_n.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/shape_button_login_n.xml"
-    },
-    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/cp.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/cp.png"
     },
@@ -92,10 +88,6 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/index_background_1_w.png"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/shape_button_login_p.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/shape_button_login_p.xml"
-    },
-    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/found_pre.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/found_pre.png"
     },
@@ -104,12 +96,12 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/studio.png"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/weibo_login.png",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/weibo_login.png"
-    },
-    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/c5.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/c5.png"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/weibo_login.png",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/weibo_login.png"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
@@ -190,10 +182,6 @@
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/pencil.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/pencil.png"
-    },
-    {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/getcode.png",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/getcode.png"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/downclass.png",
@@ -320,6 +308,10 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/default_user.jpg"
     },
     {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/shape_button_grey_stroke.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/shape_button_grey_stroke.xml"
+    },
+    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/click_works.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/click_works.png"
     },
@@ -370,6 +362,10 @@
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/p12.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/p12.png"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/shape_button_green_stroke.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/shape_button_green_stroke.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/foot.png",
@@ -518,6 +514,14 @@
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/b21.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/b21.png"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/close_black.png",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/close_black.png"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/shape_button_transparent_stroke.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/src/main/res/drawable/shape_button_transparent_stroke.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable/exitlogin.png",

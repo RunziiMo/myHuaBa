@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="我的课程"
-            android:textColor="@color/White"
+            android:textColor="@color/theme_white"
             android:textSize="20dp"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="新建"
-            android:textColor="@color/White"
+            android:textColor="@color/theme_white"
             android:textSize="20dp"
             android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
@@ -39,5 +39,5 @@
         android:id="@+id/list_upload_mycourse"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/White"></ListView>
+        android:background="@color/theme_white"></ListView>
 </LinearLayout>

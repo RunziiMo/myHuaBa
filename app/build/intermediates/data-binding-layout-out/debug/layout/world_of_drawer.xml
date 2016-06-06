@@ -7,7 +7,7 @@
     <FrameLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:background="@color/White">
+        android:background="@color/theme_white">
 <ListView
     android:id="@+id/list_drawer"
     android:layout_width="fill_parent"
@@ -20,7 +20,7 @@
             android:layout_gravity="center"
             android:background="@drawable/oval"
             android:gravity="center"
-            android:textColor="@color/Zhuti_green"
+            android:textColor="@color/theme_green"
             android:textSize="30.0dip"
             android:visibility="invisible" />
     <com.zyj010.huaba.widget.SideBar

@@ -49,6 +49,6 @@
         android:id="@+id/list_downloaded_video"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:divider="@color/White"
+        android:divider="@color/theme_white"
         android:visibility="gone"></ListView>
 </LinearLayout>

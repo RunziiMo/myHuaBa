@@ -128,7 +128,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                     AppPreferences.getInstance().setuserid(uid);
 
                     Toast.makeText(getApplicationContext(),AppPreferences.getInstance().getUserid()+"",Toast.LENGTH_LONG).show();
-                    Intent intent=new Intent(LoginActivity.this, MainActivity.class);
+                    Intent intent=new Intent(LoginActivity.this, IndexActivity.class);
                     startActivity(intent);
                     showProgress(false);
                     finish();

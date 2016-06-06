@@ -28,8 +28,7 @@
         android:targetSdkVersion="23"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.zyj010.huaba.ui.MainActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:name="com.zyj010.huaba.ui.IndexActivity"
             android:windowSoftInputMode="stateHidden|adjustPan" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -39,19 +38,15 @@
         </activity>
         <activity
             android:name="com.zyj010.huaba.ui.LoginActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+            android:theme="@style/LoginTheme" />
         <activity
             android:name="com.zyj010.huaba.ui.RegisterAcitivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity
-            android:name="com.zyj010.huaba.ui.forgetpassword"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+            android:theme="@style/LoginTheme" />
+        <activity android:name="com.zyj010.huaba.ui.forgetpassword" />
         <activity
             android:name="com.zyj010.huaba.ui.VideoActivity"
             android:configChanges="orientation|keyboardHidden|navigation" />
-        <activity
-            android:name="com.zyj010.huaba.ui.MoredrawerActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name="com.zyj010.huaba.ui.MoredrawerActivity" />
         <activity
             android:name="com.zyj010.huaba.ui.VideoPlayActivity"
             android:configChanges="orientation|keyboardHidden|screenSize" >
@@ -169,7 +164,7 @@
             android:value="2ea943307e29582e2fbc9755" />
         <meta-data
             android:name="BUG_HD_SDK_GENERAL_KEY"
-            android:value="67754e37d16dca94c9394ffa1c227f60" />
+            android:value="99d3c225fe9c47c1c6124392129b62f7" />
 
         <!-- User defined.  For test only  用户自定义的广播接收器 -->
         <receiver

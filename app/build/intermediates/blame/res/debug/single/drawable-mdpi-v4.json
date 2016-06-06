@@ -88,12 +88,12 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
@@ -194,10 +194,6 @@
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-mdpi/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",

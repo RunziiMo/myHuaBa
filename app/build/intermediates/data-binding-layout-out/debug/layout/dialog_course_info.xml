@@ -11,7 +11,7 @@
     android:textSize="20dp"
     android:textColor="@color/Black"
     android:gravity="center"
-    android:background="@color/Zhuti_green"
+    android:background="@color/theme_green"
     >
 
 </TextView>
@@ -26,9 +26,9 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/White">
+        android:background="@color/theme_white">
     <TextView
-        android:background="@color/White"
+        android:background="@color/theme_white"
         android:id="@+id/tv_courseType"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -47,11 +47,11 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/White">
+        android:background="@color/theme_white">
 <RadioGroup
     android:id="@+id/rg_coursetype"
     android:visibility="gone"
-    android:background="@color/White"
+    android:background="@color/theme_white"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 

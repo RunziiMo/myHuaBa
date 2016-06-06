@@ -42,7 +42,7 @@
             android:id="@+id/green_tiao"
             android:layout_width="3dp"
             android:layout_height="15dp"
-            android:background="@color/Zhuti_green"
+            android:background="@color/theme_green"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="18dp"
            />
@@ -137,7 +137,7 @@
                   android:id="@+id/green_tiao2"
                   android:layout_width="3dp"
                   android:layout_height="15dp"
-                  android:background="@color/Zhuti_green"
+                  android:background="@color/theme_green"
                   android:layout_marginLeft="20dp"
                   android:layout_marginTop="18dp"
                   />

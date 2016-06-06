@@ -21,7 +21,7 @@
         android:layout_marginLeft="40dp"
         android:textSize="15dp"
         android:layout_toRightOf="@id/serch"
-        android:textColor="@color/White"/>
+        android:textColor="@color/theme_white"/>
     <TextView
         android:id="@+id/jinjie"
         android:layout_width="wrap_content"
@@ -30,7 +30,7 @@
         android:text="进阶"
         android:layout_marginTop="35dp"
         android:textSize="15dp"
-        android:textColor="@color/White"/>
+        android:textColor="@color/theme_white"/>
     <TextView
         android:id="@+id/topplay"
 android:layout_toRightOf="@+id/jinjie"
@@ -40,7 +40,7 @@ android:layout_toRightOf="@+id/jinjie"
         android:layout_marginTop="35dp"
         android:layout_marginLeft="40dp"
         android:textSize="15dp"
-        android:textColor="@color/White"/>
+        android:textColor="@color/theme_white"/>
 
     <Spinner
         android:id="@+id/Spinner_leibie"

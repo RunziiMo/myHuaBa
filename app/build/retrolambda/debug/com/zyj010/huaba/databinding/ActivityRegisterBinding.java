@@ -11,19 +11,21 @@ public class ActivityRegisterBinding extends android.databinding.ViewDataBinding
         sViewsWithIds = new android.util.SparseIntArray();
         sViewsWithIds.put(R.id.email_login_form, 1);
         sViewsWithIds.put(R.id.register_user, 2);
-        sViewsWithIds.put(R.id.register_yanzheng, 3);
-        sViewsWithIds.put(R.id.btn_send_code, 4);
-        sViewsWithIds.put(R.id.register_password, 5);
-        sViewsWithIds.put(R.id.finish_register, 6);
+        sViewsWithIds.put(R.id.register_verify_logo, 3);
+        sViewsWithIds.put(R.id.register_verify, 4);
+        sViewsWithIds.put(R.id.btn_send_code, 5);
+        sViewsWithIds.put(R.id.register_password, 6);
+        sViewsWithIds.put(R.id.finish_register, 7);
     }
     // views
     public final android.widget.Button btnSendCode;
     public final android.widget.LinearLayout emailLoginForm;
     public final android.widget.Button finishRegister;
-    private final android.widget.LinearLayout mboundView0;
+    private final android.widget.RelativeLayout mboundView0;
     public final android.widget.EditText registerPassword;
     public final android.widget.EditText registerUser;
-    public final android.widget.EditText registerYanzheng;
+    public final android.widget.EditText registerVerify;
+    public final android.widget.ImageView registerVerifyLogo;
     // variables
     // values
     // listeners
@@ -31,15 +33,16 @@ public class ActivityRegisterBinding extends android.databinding.ViewDataBinding
 
     public ActivityRegisterBinding(android.databinding.DataBindingComponent bindingComponent, View root) {
         super(bindingComponent, root, 0);
-        final Object[] bindings = mapBindings(bindingComponent, root, 7, sIncludes, sViewsWithIds);
-        this.btnSendCode = (android.widget.Button) bindings[4];
+        final Object[] bindings = mapBindings(bindingComponent, root, 8, sIncludes, sViewsWithIds);
+        this.btnSendCode = (android.widget.Button) bindings[5];
         this.emailLoginForm = (android.widget.LinearLayout) bindings[1];
-        this.finishRegister = (android.widget.Button) bindings[6];
-        this.mboundView0 = (android.widget.LinearLayout) bindings[0];
+        this.finishRegister = (android.widget.Button) bindings[7];
+        this.mboundView0 = (android.widget.RelativeLayout) bindings[0];
         this.mboundView0.setTag(null);
-        this.registerPassword = (android.widget.EditText) bindings[5];
+        this.registerPassword = (android.widget.EditText) bindings[6];
         this.registerUser = (android.widget.EditText) bindings[2];
-        this.registerYanzheng = (android.widget.EditText) bindings[3];
+        this.registerVerify = (android.widget.EditText) bindings[4];
+        this.registerVerifyLogo = (android.widget.ImageView) bindings[3];
         setRootTag(root);
         // listeners
         invalidateAll();
