@@ -8,16 +8,16 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines.xml",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -44,12 +44,12 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item.xml",
@@ -192,11 +192,11 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
     }
 ]

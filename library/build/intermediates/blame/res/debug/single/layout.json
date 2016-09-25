@@ -84,16 +84,16 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",

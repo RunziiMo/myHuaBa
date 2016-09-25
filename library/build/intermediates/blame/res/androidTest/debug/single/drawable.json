@@ -12,12 +12,12 @@
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/drawable/design_fab_background.xml",
-        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
-    },
-    {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml",
         "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/drawable/design_fab_background.xml",
+        "source": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/runzii/文档/code/Studio/myHuaBa/library/build/intermediates/res/merged/androidTest/debug/drawable/design_snackbar_background.xml",
